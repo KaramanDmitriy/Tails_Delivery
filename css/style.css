@@ -459,6 +459,9 @@ eng-link{
   border-radius: 4px;
 }
 
+.span1{
+  padding-left: 8px;
+}  
 .contact__right-item h3 {
   padding-bottom: 8px;
   border-bottom: 1px solid #2a2d2c;
