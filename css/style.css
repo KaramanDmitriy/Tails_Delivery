@@ -684,6 +684,9 @@ eng-link{
   .city-list {
     font-size: 18px;
   }
+  .span {
+    padding-left: 20px;
+  }
   .footer__links-bg {
     width: 60%;
   }
